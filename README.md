@@ -1,3 +1,4 @@
+![face-ai](https://socialify.git.ci/ZhangLe1993/face-ai/image?description=1&forks=1&issues=1&language=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)
 # 功能 #
 
 1. 人脸检测、识别（图片、视频）
