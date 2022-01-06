@@ -11,6 +11,13 @@
 8. 图片分类
 9. 老照片
 10. 素描
+11.图像色温调整
+12.图像对比度调整
+13.图像高光调整
+14.图像明度调整
+15.图像饱和度调整
+16.图像阴影调整
+17.天空滤镜
 
 
 **查看功能预览↓↓↓**
@@ -20,6 +27,7 @@
 - Windows 10（x64）
 - Java 1.8
 - OpenCV 3.4.3
+- JavaCV 1.4.3
 
 
 # 例子 #
@@ -43,6 +51,20 @@
 [老照片](src/main/java/com/biubiu/example/ImageToOld.java)
 
 [素描](src/main/java/com/biubiu/example/ImageSketch.java)
+
+[色温调整](src/main/java/com/biubiu/example/ImageColorTemperature.java)
+
+[对比度调整](src/main/java/com/biubiu/example/ImageContrast.java)
+
+[高光调整](src/main/java/com/biubiu/example/ImageHighLight.java)
+
+[明度调整](src/main/java/com/biubiu/example/ImageLightness.java)
+
+[饱和度调整](src/main/java/com/biubiu/example/ImageSaturate.java)
+
+[阴影调整](src/main/java/com/biubiu/example/ImageShadow.java)
+
+[天空滤镜](src/main/java/com/biubiu/example/Sky.java)
 
 # 功能预览 #
 
@@ -85,8 +107,48 @@
 
 **证件照更换背景色**
 
-![6.png](doc/replace-background-color.png)
+![8.png](doc/replace-background-color.png)
 ----------
+
+**色温调整**
+
+****原图****
+![9.png](doc/colorOrigin.jpg)
+
+****+50色温****
+![10.png](doc/addColorTem.png)
+
+****-50色温****
+![11.png](doc/subColorTem.png)
+----------
+
+**对比度调整**
+
+****+50对比度****
+![12.png](doc/colorCon.png)
+
+----------
+
+**饱和度调整**
+
+****+50饱和度****
+![13.png](doc/colorSng.png)
+
+****+50饱和度****
+![14.png](doc/colorSng2.png)
+
+----------
+
+**高光调整**
+
+****+50高光****
+![15.png](doc/addHightLi.png)
+
+****-50高光****
+![16.png](doc/subHightLig.png)
+
+----------
+**都是可以运行的就 不一一展示了, 懒**
 
 # 微信打赏
 
