@@ -1,4 +1,4 @@
-![face-ai](https://socialify.git.ci/ZhangLe1993/face-ai/image?description=1&forks=1&issues=1&language=1&pattern=Signal&pulls=1&stargazers=1&theme=Light)
+![face-ai](https://socialify.git.ci/ZhangLe1993/face-ai/image?description=1&forks=1&issues=1&language=1&pulls=1&stargazers=1&theme=Light)
 # 功能 #
 
 1. 人脸检测、识别（图片、视频）
@@ -16,6 +16,7 @@
 13. 图像高光调整
 14. 图像明度调整
 15. 图像饱和度调整
+
 16. 图像阴影调整
 17. 天空滤镜
 
