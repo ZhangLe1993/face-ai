@@ -18,6 +18,7 @@
 15. 图像饱和度调整
 16. 图像阴影调整
 17. 天空滤镜
+18. 人脸检测、识别（Dlib版本）[参考文章](https://yinyue.blog.csdn.net/article/details/123444397)
 
 
 **查看功能预览↓↓↓**
@@ -29,6 +30,7 @@
 - OpenCV 3.4.3
 - JavaCV 1.4.3
 
+- Dlib 仅仅支持　Linux Or MacOS
 
 # 例子 #
 
@@ -67,6 +69,17 @@
 [天空滤镜](src/main/java/com/biubiu/example/Sky.java)
 
 # 功能预览 #
+
+**人脸识别OpenCV/JavaCV版本**
+![00.png](doc/opencv_face.png)
+----------
+
+
+**人脸识别Dlib版本**
+![0.gif](doc/cut.gif)
+
+![0.png](doc/dlib_show.png)
+----------
 
 **年龄识别**
 
@@ -148,6 +161,8 @@
 ![16.png](doc/subHightLig.png)
 
 ----------
+
+
 **都是可以运行的就 不一一展示了, 懒**
 
 # 微信打赏

@@ -65,6 +65,32 @@
             <version>3.4</version>
         </dependency>
 
+        <!--　dlib -->
+        <!--　参考文章　https://yinyue.blog.csdn.net/article/details/123444397　-->
+        <!--　开源 jdlib　https://github.com/tahaemara/jdlib　-->
+        <dependency>
+            <groupId>com.emaraic</groupId>
+            <artifactId>Jdlib</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-math3</artifactId>
+            <version>3.2</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>15.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-swing</artifactId>
+            <version>11</version>
+        </dependency>
+
+
     </dependencies>
 
     <build>
@@ -72,7 +98,14 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
+            </plugin><plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>8</source>
+                <target>8</target>
+            </configuration>
+        </plugin>
         </plugins>
     </build>
 
