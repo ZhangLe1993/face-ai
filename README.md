@@ -19,6 +19,9 @@
 16. 图像阴影调整
 17. 天空滤镜
 18. 人脸检测、识别（Dlib版本）[参考文章](https://yinyue.blog.csdn.net/article/details/123444397)
+19. 暗通道去雾算法
+20. 中值滤波去雾算法
+21. 人脸美颜磨皮算法
 
 
 **查看功能预览↓↓↓**
@@ -71,11 +74,13 @@
 # 功能预览 #
 
 **人脸识别OpenCV/JavaCV版本**
+
 ![00.png](doc/opencv_face.png)
 ----------
 
 
 **人脸识别Dlib版本**
+
 ![0.gif](doc/cut.gif)
 
 ![0.png](doc/dlib_show.png)
@@ -159,6 +164,24 @@
 
 ****-50高光****
 ![16.png](doc/subHightLig.png)
+
+----------
+
+**美颜磨皮算法**
+
+![17.png](doc/meiyanmopi.png)
+
+----------
+
+**暗通道去雾算法**
+
+![18.png](doc/antoudao.png)
+
+----------
+
+**中值滤波去雾算法**
+
+![19.png](doc/zhongzhi.png)
 
 ----------
 
