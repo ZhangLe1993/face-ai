@@ -24,10 +24,10 @@
 21. 人脸美颜磨皮算法
 
 # Stargazers
-[![Stargazers repo roster for @face-ai](https://reporoster.com/stars/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/stargazers)
+[![Stargazers repo roster for @ZhangLe1993/face-ai](https://reporoster.com/stars/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/stargazers)
 
 # Forkers
-[![Forkers repo roster for @face-ai](https://reporoster.com/forks/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/network/members)
+[![Forkers repo roster for @ZhangLe1993/face-ai](https://reporoster.com/forks/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/network/members)
 
 
 **查看功能预览↓↓↓**
