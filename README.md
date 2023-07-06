@@ -196,4 +196,4 @@
 
 # 微信打赏
 
-![微信打赏](doc/weixin-pay.jpg){:height="200px" width="120px"}
+![微信打赏](doc/weixin-pay.jpg)
