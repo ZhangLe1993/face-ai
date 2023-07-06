@@ -23,12 +23,6 @@
 20. 中值滤波去雾算法
 21. 人脸美颜磨皮算法
 
-# Stargazers
-[![Stargazers repo roster for @ZhangLe1993/face-ai](https://reporoster.com/stars/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/stargazers)
-
-# Forkers
-[![Forkers repo roster for @ZhangLe1993/face-ai](https://reporoster.com/forks/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/network/members)
-
 
 **查看功能预览↓↓↓**
 
@@ -191,9 +185,15 @@
 
 ----------
 
-
 **都是可以运行的就 不一一展示了, 懒**
+
+# Stargazers
+[![Stargazers repo roster for @ZhangLe1993/face-ai](https://reporoster.com/stars/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/stargazers)
+
+# Forkers
+[![Forkers repo roster for @ZhangLe1993/face-ai](https://reporoster.com/forks/ZhangLe1993/face-ai)](https://github.com/ZhangLe1993/face-ai/network/members)
+
 
 # 微信打赏
 
-![微信打赏](doc/weixin-pay.jpg)
+![微信打赏](doc/weixin-pay.jpg){:height="200px" width="120px"}
